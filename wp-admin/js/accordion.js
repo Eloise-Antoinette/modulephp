@@ -1,6 +1,6 @@
 /**
  * Accordion-folding functionality.
- *
+ *dsqds
  * Markup with the appropriate classes will be automatically hidden,
  * with one section opening at a time when its title is clicked.
  * Use the following markup structure for accordion behavior:
